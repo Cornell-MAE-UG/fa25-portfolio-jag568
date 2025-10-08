@@ -1,14 +1,14 @@
 ---
 layout: default
 title: Joseph Gavacs - Curriculum Vitae
-permalink: /cv/
+permalink: https://cornell-mae-ug.github.io/fa25-portfolio-jag568/cv/
 ---
 ## Curriculum Vitae
 
 [Download my CV]({{ "/assets/CV.pdf" | relative_url }}) in PDF format.
 
 
-**Email:** [netID@cornell.edu](mailto:netID@cornell.edu) | | | **Phone:** +123 456 7890
+**Email:** [jag568@cornell.edu](mailto:netID@cornell.edu) | | | **Phone:** +123 456 7890
 
 ---
 
