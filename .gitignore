@@ -32,3 +32,7 @@ Gemfile.lock
 
 # VS Code specific settings
 .vscode/
+
+git add .
+git commit -m "<Commit Edit>"
+git push origin main
