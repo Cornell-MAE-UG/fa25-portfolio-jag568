@@ -33,6 +33,5 @@ Gemfile.lock
 # VS Code specific settings
 .vscode/
 
-git add .
-git commit -m "<Commit Edit>"
-git push origin main
+    Server address: http://127.0.0.1:4000/
+  Server running... press ctrl-c to stop.
