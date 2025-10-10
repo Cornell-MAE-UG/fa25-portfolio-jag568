@@ -24,7 +24,7 @@ You can use [VS Code](https://code.visualstudio.com/) to clone your code, edit, 
 
 Download and install VS Code. When you open it, choose "Clone Git Repository" to start a new project from your repository. Then enter the repo URL (also under the "Code" button in GitHub). 
 
-<img src="assets/images/vscode-clone.jpg" width="500" />
+<img src="/assets/images/vscode-clone.jpg" width="500" />
 
 
 You can then use VS Code for editing and [Git actions](https://code.visualstudio.com/docs/sourcecontrol/overview). Please refer to the [VS Code documentation](https://code.visualstudio.com/docs/) for more information. 
@@ -33,7 +33,7 @@ You can then use VS Code for editing and [Git actions](https://code.visualstudio
 
 Alternatively, you can use the online [Codespaces](https://github.com/features/codespaces) environments for development. Please read more about this feature through the following [link](https://github.com/features/codespaces). This option is available to you through the "Code" button as shown in the image below. This starts an online space for you to edit, test, and commit your work.
 
-<img src="assets/images/codespace-button.png" width="400" />
+<img src="/assets/images/codespace-button.png" width="400" />
 
 ### Using the Git CLI
 
@@ -174,10 +174,10 @@ Follow these steps to publish your portfolio:
 
 
 1. Go to your repository's Settings
-<img src="assets/images/settings.png" width="600" />
+<img src="/assets/images/settings.png" width="600" />
 
 3. Choose the "Pages" tab under "Build and Deployment", verify that "Source" says "Deploy from a branch" and under "Branch" choose `main` and `/ (root)`
-<img src="assets/images/pages-settings.png" width="600" />
+<img src="/assets/images/pages-settings.png" width="600" />
 
 4. Don't forget to save this setting at the bottom of the page.
 

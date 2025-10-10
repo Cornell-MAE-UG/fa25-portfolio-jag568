@@ -3,7 +3,7 @@ layout: project
 title: Lifting Device Design
 description: My design for a device to lift the most weight the highest height
 technologies: [SolidWorks, Machining]
-image: https://cornell-mae-ug.github.io/fa25-portfolio-jag568/assets/images/lifting-device-design.png
+image: "/assets/images/lifting-device-design.png"
 ---
 
 
