@@ -5,7 +5,7 @@ description: My analysis of an engine based on thermodynamic principles
 technologies: [SolidWorks, Machining]
 image: "/assets/images/lifting-device-design.png"
 ---
-[View PDF]({{ "/assets/Engine-Analysis.pdf" | relative_url }})
+[View PDF]({{ "/assets/images/Engine-Analysis.pdf" | relative_url }})
 
 **Internal Combustion Engine Analysis**
 ***By Joseph Gavacs***
@@ -18,29 +18,30 @@ image: "/assets/images/lifting-device-design.png"
 ---
 
 **Key features:**
-    Ignition for specifically spark ignition (SI) internal combustion engines comes from the spark plug
 
-    Combustion occurs inside the working fluid (unlike steam or gas turbines with external combustion)
+Ignition for specifically spark ignition (SI) internal combustion engines comes from the spark plug
 
-    Operates cyclically
+Combustion occurs inside the working fluid (unlike steam or gas turbines with external combustion)
 
-    It can be treated as a closed system during compression/expansion (but not for intake/exhaust)
+Operates cyclically
+
+It can be treated as a closed system during compression/expansion (but not for intake/exhaust)
 
 ---
 
 **Components:**
 
-    Cylinder - chamber where combustion occurs
+Cylinder - chamber where combustion occurs
 
-    Piston - converts gas pressure to mechanical motion
+Piston - converts gas pressure to mechanical motion
 
-    Crankshaft - converts reciprocating motion to rotation
+Crankshaft - converts reciprocating motion to rotation
 
-    Intake port - admits air/fuel mixture
+Intake port - admits air/fuel mixture
 
-    Exhaust port - releases combustion products
+Exhaust port - releases combustion products
 
-    Spark plug - initiates combustion
+Spark plug - initiates combustion
 
 ---
 
@@ -93,34 +94,35 @@ dScv/dt = Q/T - W + min sin - mout sout + Sgen
 
 **Efficiency:**
 
-    Thermal Efficiency:
+Thermal Efficiency:
 
-    ηth = Wout/Qin
-    
-    This will always be less than one due to heat loss from radiation, and work loss from friction
+ηth = Wout/Qin
+
+This will always be less than one due to heat loss from radiation, and work loss from friction
 
 
-    Otto Cycle Efficiency (Idealized Model):
+Otto Cycle Efficiency (Idealized Model):
 
-    ηotto = 1 - 1 / r^(𝛾 - 1)
+ηotto = 1 - 1 / r^(𝛾 - 1)
 
-    r = Vmax/Vmin (compression ratio)
-    
-    𝛾 = cp/cv
-    
-    This models the efficiency of the engine if it were both adiabatic and isentropic, neither of which are true for a real engine but we can use this equation to see how we may be able to increase the efficiency
+r = Vmax/Vmin (compression ratio)
+
+𝛾 = cp/cv
+
+This models the efficiency of the engine if it were both adiabatic and isentropic, neither of which are true for a real engine but we can use this equation to see how we may be able to increase the efficiency
 
 ---
 
 **Changes to Increase Efficiency:**
-    Increase Compression Ration (r):
 
-    From the efficiency equation for the Otto Cycle we can see that ηotto increases as r increases, thus increasing the ratio Vmax/Vmin will result in greater efficiency
+Increase Compression Ration (r):
 
-    Insulate Engine:
+From the efficiency equation for the Otto Cycle we can see that ηotto increases as r increases, thus increasing the ratio Vmax/Vmin will result in greater efficiency
 
-    Insulating the engine would lower the Qout which allows more of the heat input to be converted to work rather than being lost through radiation out of the system
-    Brings the system closer to its adiabatic efficiency
+Insulate Engine:
+
+Insulating the engine would lower the Qout which allows more of the heat input to be converted to work rather than being lost through radiation out of the system
+Brings the system closer to its adiabatic efficiency
 
 ---
 
