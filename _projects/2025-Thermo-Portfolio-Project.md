@@ -50,13 +50,16 @@ Intake:
 
 The intake valve opens and the piston moves downward as air-fuel mixture enters the cylinder
 
+
 Compression:
 
 While both valves are closed, the piston moves upward and the mixture is compressed (pressure and temperature increase)
 
+
 Power (Combustion):
 
 Spark ignites mixture and rapid combustion increases pressure. This forces the piston downward and creates work output
+
 
 Exhaust:
 
@@ -67,15 +70,23 @@ The exhaust valve opens and the piston moves upward. Combustion products are exp
 **Balances:**
 
 Mass Balance:
+
 mair + mfuel = mexhaust
+
 Δm = 0
 
+
 Energy Balance:
+
 dEcv/dt = Q - W + min hin - mout hout
+
 0 = Qin - Qout + Wshaft + min hin - mout hout
 
+
 Entropy Balance:
+
 dScv/dt = Q/T - W + min sin - mout sout + Sgen
+
 0 = Q/T - W + min sin - mout sout + Sgen
 
 ---
@@ -85,13 +96,18 @@ dScv/dt = Q/T - W + min sin - mout sout + Sgen
     Thermal Efficiency:
 
     ηth = Wout/Qin
+    
     This will always be less than one due to heat loss from radiation, and work loss from friction
+
 
     Otto Cycle Efficiency (Idealized Model):
 
     ηotto = 1 - 1 / r^(𝛾 - 1)
+
     r = Vmax/Vmin (compression ratio)
+    
     𝛾 = cp/cv
+    
     This models the efficiency of the engine if it were both adiabatic and isentropic, neither of which are true for a real engine but we can use this equation to see how we may be able to increase the efficiency
 
 ---
