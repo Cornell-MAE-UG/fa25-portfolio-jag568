@@ -1,7 +1,7 @@
 ---
 layout: project
 title: Internal Combustion Engine Analysis
-description: My analysis of an engine based on thermodynamic principles
+description: Analysis of the components, properties, and efficieny of an internal combustion engine
 technologies: [SolidWorks, Machining]
 image: "/assets/images/lifting-device-design.png"
 ---
