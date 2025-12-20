@@ -7,12 +7,17 @@ image: "/assets/images/lifting-device-design.png"
 ---
 [View PDF]({{ "/assets/Engine-Analysis.pdf" | relative_url }})
 
-Internal Combustion Engine Analysis
-Overview:
+**Internal Combustion Engine Analysis**
+***By Joseph Gavacs***
+
+---
+
+**Overview:**
 	An internal combustion engine converts the chemical energy of fuel into mechanical work by mixing fuel and air, burning the mixture inside the engine cylinder and then using the high-pressure combustion gases to push the piston that converts its linear motion into rotational motion via a crankshaft.
 
+---
 
-Key features:
+**Key features:**
     Ignition for specifically spark ignition (SI) internal combustion engines comes from the spark plug
 
     Combustion occurs inside the working fluid (unlike steam or gas turbines with external combustion)
@@ -21,7 +26,9 @@ Key features:
 
     It can be treated as a closed system during compression/expansion (but not for intake/exhaust)
 
-Components:
+---
+
+**Components:**
 
     Cylinder - chamber where combustion occurs
 
@@ -35,7 +42,9 @@ Components:
 
     Spark plug - initiates combustion
 
-The 4-Stroke Cycle:
+---
+
+**The 4-Stroke Cycle:**
 
 Intake:
 
@@ -53,7 +62,9 @@ Exhaust:
 
 The exhaust valve opens and the piston moves upward. Combustion products are expelled (mostly carbon dioxide and water vapor)
 
-Balances:
+---
+
+**Balances:**
 
 Mass Balance:
 mair + mfuel = mexhaust
@@ -67,7 +78,9 @@ Entropy Balance:
 dScv/dt = Q/T - W + min sin - mout sout + Sgen
 0 = Q/T - W + min sin - mout sout + Sgen
 
-Efficiency:
+---
+
+**Efficiency:**
 
     Thermal Efficiency:
 
@@ -81,15 +94,21 @@ Efficiency:
     𝛾 = cp/cv
     This models the efficiency of the engine if it were both adiabatic and isentropic, neither of which are true for a real engine but we can use this equation to see how we may be able to increase the efficiency
 
-Changes to Increase Efficiency:
+---
+
+**Changes to Increase Efficiency:**
     Increase Compression Ration (r):
 
     From the efficiency equation for the Otto Cycle we can see that ηotto increases as r increases, thus increasing the ratio Vmax/Vmin will result in greater efficiency
 
     Insulate Engine:
-    
+
     Insulating the engine would lower the Qout which allows more of the heat input to be converted to work rather than being lost through radiation out of the system
     Brings the system closer to its adiabatic efficiency
 
-Conclusion:
+---
+
+**Conclusion:**
 	The internal combustion engine operates in four main strokes: intake, compression, power, and exhaust. Although this cycle can be modelled by the idealized Otto Cycle, this idealization neglects the real world irreversibilities of friction and heat transfer across finite temperature differences. Nonetheless, the same factors that would increase the efficiency of the Otto Cycle also improve that of a real IC engine making it a useful comparison.
+
+---
