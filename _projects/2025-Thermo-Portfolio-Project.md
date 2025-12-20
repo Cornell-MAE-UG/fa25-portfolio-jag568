@@ -1,14 +1,13 @@
 ---
 layout: project
-title: Thermo Porfolio Project
+title: Internal Combustion Engine Analysis
 description: My analysis of an engine based on thermodynamic principles
 technologies: [SolidWorks, Machining]
 image: "/assets/images/lifting-device-design.png"
 ---
-[View PDF]({{ "/assets/images/Engine-Analysis.pdf" | relative_url }})
+**By Joseph Gavacs**
 
-**Internal Combustion Engine Analysis**
-***By Joseph Gavacs***
+[View PDF]({{ "/assets/images/Engine-Analysis.pdf" | relative_url }})
 
 ---
 
