@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Joseph Gavacs - Portfolio
-permalink: https://cornell-mae-ug.github.io/fa25-portfolio-jag568/projects/
+permalink: /projects/
 ---
 
 <div class="gallery-container">
