@@ -7,7 +7,7 @@ image: "/assets/images/lifting-device-design.png"
 ---
 **Team: Spotted... then Stopped**
 
-[View as PDF]({{ "/assets/images/Engine-Analysis.pdf" | relative_url }})
+[View as PDF]({{ "/assets/images/ODP3-Outline.pdf" | relative_url }})
 
 ---
 
