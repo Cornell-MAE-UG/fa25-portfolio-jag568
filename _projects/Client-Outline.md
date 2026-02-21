@@ -13,7 +13,7 @@ image: "/assets/images/lifting-device-design.png"
 
 **Problem Statement:**
 
-New York vineyard owners are trying to maximize yield in their vineyards, but Spotted Lanternflies are infesting vines and contaminating harvests, leading to decreased yield. One of the most thought of solutions would be to shake the plant enough for the bugs to fall, but there is the concern that the grapes would be lost as well. Although insecticides are normally used to control pests, this is not the most desirable solution in this case as they are both expensive and require continuous use, thus not as useful in the long term. Another challenge is that lanternflies killed while on the vines may fall into the harvester and get mixed into the produce, which cannot be filtered due to concerns for texture and flavor. A joint study conducted by Cornell and Penn State found that 60% of lantern flies on vines wound up in the harvest bins. Current health standards require the product to be rejected if even 1-2 adults are found in a sample of 1 kilogram.
+New York vineyard operators aim to maximize yield during mechanical harvesting, but Spotted Lanternflies (SLF) frequently enter harvest bins and contaminate products. A Cornell–Penn State study found that 60% of lanternflies on vines end up in harvest bins, and current standards require rejection if even 1–2 adult insects are found per 1 kg sample. Significantly disturbing the vine to remove SLF's proves a problem when harvesting. Ripe grapes detach very easily, potentially resulting in high losses if they are directly exposed to excessive forces.
 
 ---
 
@@ -31,51 +31,53 @@ Our main idea is to have a machine attached to the front of the harvester that w
 
 **Concept A: Spinning Brushes**
 
-An attachment to the front of the vehicle that has rotating brushes aimed at only the vine. The brushes would be located on a rotating rod (almost like a car wash brush) so as to scrape the flies off the vine without disturbing the grapes too much. 
+An attachment to the front of the vehicle that has rotating brushes aimed at only the vine. The brushes would be located on a rotating rod (almost like a car wash brush) that scrapes the flies off the vine, placed at the right height so as to not disturb the grapes too much.
 
 ---
 
 **How it would be used**
 
-Attach rotating rods to the harvester at correct height
+Mount system to harvester front
 
-Turn them on to spin
+Attach height to match vine height
 
-Drive the harvester through to collect grapes
+Brushes rotate at speed matched to forward motion
+
+Flies are dislodged downward before grape collection
 
 ---
 
 **Why it’s better than the status quo:**
 
-Flies would be knocked off vines before reaching harvester
+Removes insects before contamination
 
-Brushes below grapes to protect harvest
+Avoids post-harvest filtering grapes and flies
 
-Don’t need to worry about separating grapes vs flies
+Compatible with current harvesting equipment
 
 ---
 
 **End-of-semester proof-of-concept:**
 
-A large, slowly spinning, brush attached to a rod.
+Two cylindrical brushes attached to an adjustable mounting frame, spinning in tandem.
 
 ---
 
 **Key Risks / Unknowns:**
 
-**Damage to vines** — Could reduce yield in the long run if the vine is scraped: We could test the bristles on a vine and see how it's damaged.  
+**Damage to vines** — Reduce yield if the vine is scraped: Test bristles on vine and assess damage.  
 
-**Knocking off grapes prematurely** — This could get rid of some of the harvest that we want: We could test to make sure to find the right height to direct the bristles at to avoid hitting grapes.
+**Knocking off grapes prematurely** — Accidental removal of grapes: Test to ensure right height of bristles to avoid contact with grapes.
 
-**Gaps between brushes may leave some flies on vines** — This might leave some contamination still: We could test this by running a prototype on a model of the vine with attachments of similar grip strength, and seeing what is not removed.
+**Gaps between brushes may leave some flies on vines** — Might still leave some contamination: Test prototype on model of the vine with attachments of similar grip strength to SLF.
 
 ---
 
 **Questions for the client:**
 
-**Can we get a blueprint/design for the harvesters used?** — Affects how the brush would connect to the harvester, and the design considerations that come with that.
+**Can we get a blueprint/design for the harvesters used?** — Affects how the brush would mount the harvester, and design considerations that come with that.
 
-**What is the average height/length of the vine?** — Affects the dimensions of the brushes needed.
+**What is the average height/length of the vine?** — Affects the dimensions of the brush and the amount of materials needed.
 
 **What is the durability of the vine?** — Affects the amount of force we can put on the vine and the material used for the bristles.
 
@@ -85,5 +87,7 @@ A large, slowly spinning, brush attached to a rod.
 **References:**
 
 https://wineamerica.org/wp-content/uploads/2025/05/2025-WineAmerica-Methodology-4-28-25-Final.pdf
+
+https://www.psu.edu/news/research/story/grapevines-may-only-need-help-survive-heavy-spotted-lanternfly-infestations
 
 ---
