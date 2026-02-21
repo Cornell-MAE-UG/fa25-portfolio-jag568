@@ -69,20 +69,15 @@ A large, slowly spinning, brush attached to a rod.
 
 **Gaps between brushes may leave some flies on vines** — This might leave some contamination still: We could test this by running a prototype on a model of the vine with attachments of similar grip strength, and seeing what is not removed.
 
+---
 
 **Questions for the client:**
 
-Can we get a blueprint/design for the harvesters used?
+**Can we get a blueprint/design for the harvesters used?** — Affects how the brush would connect to the harvester, and the design considerations that come with that.
 
-Affects how the brush would connect to the harvester, and the design considerations that come with that.
+**What is the average height/length of the vine?** — Affects the dimensions of the brushes needed.
 
-What is the average height/length of the vine?
-
-Affects the dimensions of the brushes needed.
-
-What is the durability of the vine?
-
-Affects the amount of force we can put on the vine and the material used for the bristles.
+**What is the durability of the vine?** — Affects the amount of force we can put on the vine and the material used for the bristles.
 
 
 ---
