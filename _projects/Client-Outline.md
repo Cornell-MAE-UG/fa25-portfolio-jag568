@@ -5,10 +5,10 @@ description: Outline of our proposed solution for the New York vineyard owners' 
 technologies: [CAD]
 image: "/assets/images/SLF_Project/ODP_Image.png"
 ---
+---
+#### Team: Spotted... then Stopped
+---
 
----
-**Team: Spotted... then Stopped**
----
 
 #### Milestones
 
