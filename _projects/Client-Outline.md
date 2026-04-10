@@ -5,15 +5,16 @@ description: Outline of our proposed solution for the New York vineyard owners' 
 technologies: [CAD]
 image: "/assets/images/SLF_Project/ODP_Image.png"
 ---
+
+---
 **Team: Spotted... then Stopped**
 ---
-
 
 #### Milestones
 
 
-- Click [here](#client-pitch) for client pitch assignment (or here to [view as PDF]({{ "/assets/images/SLF_Project/Client_Pitch.pdf" | relative_url }}))
-- Click [here](#functional-prototype) for functional prototype assignment (or here to [view as PDF]({{ "/assets/images/SLF_Project/Functional_Prototype.pdf" | relative_url }}))
+- Click [here](#client-pitch) for **client pitch** assignment (or here to [view as PDF]({{ "/assets/images/SLF_Project/Client_Pitch.pdf" | relative_url }}))
+- Click [here](#functional-prototype) for **functional prototype** assignment (or here to [view as PDF]({{ "/assets/images/SLF_Project/Functional_Prototype.pdf" | relative_url }}))
 
 
 ---
