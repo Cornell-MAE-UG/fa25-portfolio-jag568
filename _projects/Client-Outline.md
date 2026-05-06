@@ -15,7 +15,7 @@ image: "/assets/images/Client_Report.png"
 
 - Click [here](#client-pitch) for **client pitch** assignment (or here to [view as PDF]({{ "/assets/images/ODP3-Outline.pdf" | relative_url }}))
 - Click [here](#functional-prototype) for **functional prototype** assignment (or here to [view as PDF]({{ "/assets/images/ODP3-Outline.pdf" | relative_url }}))
-- Click [here](#functional-prototype) for **client report** assignment (or here to [view as PDF]({{ "/assets/images/Client-Report.pdf" | relative_url }}))
+- Click [here](#client-report) for **client report** assignment (or here to [view as PDF]({{ "/assets/images/Client-Report.pdf" | relative_url }}))
 
 ---
 
